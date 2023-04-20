@@ -14,6 +14,7 @@ https://dl.acm.org/doi/10.1145/3394171.3413528
 
 
 We used spoter model to train adjective isl data which gave accuracy of over 91%
+in comparsion of our baseline model of cnn which only gave   as training accuracy 
 We only used chunk of the data due to lack of computational resources 
 Also created a repository to demonstrate this 
 https://huggingface.co/spaces/TechShark20/handwespeak
